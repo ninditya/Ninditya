@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ninditya
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning Product Management, Software Quality Assurance, and Data Science.
+- 🌱 I’m currently learning Software Quality Assurance, and Data Science.
 - 📫 How to reach me at ninditya.sna025@gmail.com.
 - 📃 Document Portfolio : https://drive.google.com/file/d/1jFaBQXMS1DpM6X3bISsyMUq-bBXSeJOy/view?usp=sharing
 
